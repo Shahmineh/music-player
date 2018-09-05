@@ -1,0 +1,21 @@
+.selector-for-some-widget {
+	box-sizing: content-box;
+}
+
+.music-header {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.img-list {
+	max-width: 12%;
+}
+
+.list-group {
+	height: 100vh;
+	overflow: scroll;
+}
+
+.img-holder {
+	
+}
